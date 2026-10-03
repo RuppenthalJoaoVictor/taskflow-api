@@ -1,5 +1,6 @@
 # TaskFlow API
 
+![CI](https://github.com/RuppenthalJoaoVictor/taskflow-api/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
