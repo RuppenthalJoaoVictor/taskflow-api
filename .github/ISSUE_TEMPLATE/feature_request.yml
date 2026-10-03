@@ -1,0 +1,25 @@
+---
+name: Feature request
+about: Sugere uma funcionalidade nova
+title: "[Feature] "
+labels: enhancement
+assignees: ''
+---
+
+## 💡 Problema
+
+<!-- O que hoje é difícil, lento ou impossível? Não descreva a solução aqui. -->
+
+## 🎯 Solução proposta
+
+<!-- O que você imagina que resolveria? -->
+
+## 🔄 Alternativas consideradas
+
+<!-- Outras abordagens que você já pensou. -->
+
+## 📊 Impacto
+
+- [ ] Beneficia a maioria dos usuários
+- [ ] É pequeno o suficiente para caber em um PR
+- [ ] Alinhado com o escopo do projeto

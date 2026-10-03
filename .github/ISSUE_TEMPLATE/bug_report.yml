@@ -1,0 +1,35 @@
+---
+name: Bug report
+about: Relata um comportamento incorreto
+title: "[Bug] "
+labels: bug
+assignees: ''
+---
+
+## 🐛 Descrição
+
+<!-- O que aconteceu? -->
+
+## ✅ Comportamento esperado
+
+<!-- O que deveria ter acontecido? -->
+
+## 🔁 Passos para reproduzir
+
+1.
+2.
+3.
+
+## 📋 Ambiente
+
+- **Sistema operacional**: <!-- ex.: Ubuntu 24.04 -->
+- **Versão do Python**: <!-- ex.: 3.12.3 -->
+- **Commit**: <!-- git rev-parse --short HEAD -->
+
+## 📸 Evidências
+
+<!-- Erro completo, resposta da API, print do Swagger. -->
+
+```
+
+```
