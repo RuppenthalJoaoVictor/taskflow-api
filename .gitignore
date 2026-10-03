@@ -1,0 +1,28 @@
+# Byte-for-byte: dados que não são segredos
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Editores e SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
